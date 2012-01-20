@@ -3,7 +3,7 @@
 Plugin Name: NORD - custom login form
 Description: Customizes the standard login form (for private pages) in WordPress.
 Version: 0.1
-License: GPLv2 or later
+License: GPLv2
 Author: Thomas Clausen
 Author URI: http://www.thomasclausen.dk/wordpress/
 */
