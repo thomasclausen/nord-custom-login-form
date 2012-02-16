@@ -8,7 +8,7 @@ It can be seen in action here [http://www.svommeklubbennord.dk/login/](http://ww
 
 # Usage
 
-Just activate the plugin.
+Download it, upload it and activate it!
 
 # Feedback
 
